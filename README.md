@@ -1,7 +1,10 @@
 # xcodeImageName
+
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/17351286/169740698-b800b572-72ae-42af-b12f-32c2100f93fe.png">
+
 Xcode项目的.xcassets 图片资源一键修改命名,将xcassets资源一键转移到.bundle中
 仅限企业包分发,此压缩方式可缩减包体积30%左右,具体看项目而定
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/17351286/169740698-b800b572-72ae-42af-b12f-32c2100f93fe.png">
+
 
 
 1.开发阶段.将新增的图片放入 images.xcassets 中,正常开发.使用 UIImageNameMake() 来创建UIImage 对象
